@@ -7,6 +7,6 @@ Gem::Specification.new do |s|
   s.authors     = ["Agnes Selvita"]
   s.email       = 'a.selvita@gmail.com'
   s.files       = ["lib/wx_pay.rb"]
-  s.homepage    = 'https://github.com/aggy-k'
+  s.homepage    = 'https://github.com/aggy-k/wx_stuff'
   s.license     = 'MIT'
 end
